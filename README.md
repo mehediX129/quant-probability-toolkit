@@ -15,3 +15,7 @@ This project includes:
 ## Run
 pip install -r requirements.txt
 python normal_distribution.py
+
+
+## Sample Output
+...
