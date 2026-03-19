@@ -1,21 +1,28 @@
-# Quant Probability Toolkit
+# 📊 Quant Probability Toolkit
 
-This project includes:
+A professional Python toolkit for probability distributions and statistical modeling.
 
-- Normal Distribution
-- Poisson Model
-- Bayesian Update
-- Gamma Function Visualization
+---
 
-## Features
-- Python simulation
-- Plot visualization
-- Real-world probability models
+## 🚀 Features
 
-## Run
+- Normal Distribution Visualization
+- Poisson Distribution Model
+- Gamma Distribution Analysis
+- Bayesian Updating (Beta Distribution)
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- NumPy
+- SciPy
+- Matplotlib
+
+---
+
+## ⚙️ Installation
+
+```bash
 pip install -r requirements.txt
-python normal_distribution.py
-
-
-## Sample Output
-...
